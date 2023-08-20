@@ -4,7 +4,7 @@ import {MoreHorizontal, Heart, Layers, Repeat,BarChart2, MessageCircle, Share } 
 
  const Feed = () => {
   return (
-    <div className='mt-8 container mx-auto lg:w-[900px] md:w-full border border-gray-600 shadow-md rounded-lg p-9'>
+    <div className='mt-7 container mx-auto lg:w-[800px] md:w-full border border-gray-600 shadow-md rounded-lg custom-box  p-8  '>
      <div className='flex p-4'>
         <img 
         className='w-12 h-12 rounded-full object-cover'
@@ -36,7 +36,7 @@ import {MoreHorizontal, Heart, Layers, Repeat,BarChart2, MessageCircle, Share } 
                     
             </div>
             
-            <div className=' flex gap-20 py-7'>
+            <div className=' flex gap-20 py-12'>
             <div className='flex items-center gap-1'>
                 <MessageCircle />
                     <span className='text-gray-500'>23</span> 

@@ -43,3 +43,9 @@ h1 {
   margin: 0 auto;
   background-color: black;
 }
+
+.custom-box {
+  /* Otros estilos */
+  border-radius: 0;
+  padding-bottom: 1px;
+}
